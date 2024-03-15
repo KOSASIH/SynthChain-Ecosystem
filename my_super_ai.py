@@ -1,6 +1,6 @@
 import superai as ai
 
-client = ai.Client("your_api_key")
+client = ai.Client("2nodwtr18uvrqcskehvbqnu9geb85wgb4n8wuwc5uch9r532vkqqs577ak0stozn") 
 
 client.create_jobs(
     app_id="your_project_id",
